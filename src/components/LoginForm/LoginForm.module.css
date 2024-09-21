@@ -1,6 +1,6 @@
 .form {
     padding: 10px;
-    border: 1px solid cornflowerblue;
+    border: 1px solid rgb(38, 30, 14);
     border-radius: 8px;
     width: 320px;
     margin-left: auto;
@@ -11,7 +11,7 @@
     flex-direction: column;
     gap: 10px;
     margin: 20px;
-    color: cornflowerblue;
+    color: rgb(81, 70, 48);
   }
   
   .field {
@@ -19,7 +19,7 @@
     flex-direction: column;
     padding: 5px 5px 5px 10px;
     border-radius: 8px;
-    border: 1px solid cornflowerblue;
+    border: 1px solid rgb(151, 140, 93);
   }
   
   .error {
@@ -32,11 +32,11 @@
     margin: auto;
     margin-top: 10px;
    
-    border: 2px solid transparent;
+    border: 2px solid transparent black;
     border-radius: 8px;
-    background-color: cornflowerblue;
+    background-color: rgb(251, 243, 198);
     padding: 10px;
-    color: antiquewhite;
+    color: rgb(81, 70, 48);
     font-size: 20px;
   }
 

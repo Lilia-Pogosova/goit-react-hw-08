@@ -6,9 +6,8 @@
     justify-content: center;
     align-items: center;
     gap: 20px;
-    
     padding: 10px;
-    border: 1px solid cornflowerblue;
+    border: 4px  dashed  rgb(39, 39, 43);
     border-radius: 8px;
     width: 320px;
     margin-left: auto;
@@ -22,7 +21,7 @@
     flex-direction: column;
     gap: 10px;
     width: 300px;
-    color: cornflowerblue;
+    color: rgb(81, 70, 48);
     font-weight: 600;
   }
   
@@ -37,9 +36,9 @@
     flex-direction: column;
     padding: 5px 5px 5px 10px;
     border-radius: 8px;
-    border: 1px solid cornflowerblue;
+    border: 1px solid rgb(151, 140, 93);
     align-items: center;
-    color: cornflowerblue;
+    color: rgb(111, 113, 116);
     font-weight: 700;
   }
   
@@ -49,8 +48,8 @@
     flex-direction: column;
     padding: 5px 5px 5px 10px;
     border-radius: 8px;
-    color: cornflowerblue;
-    border: 1px solid cornflowerblue;
+    color: rgb(81, 70, 48);
+    border: 1px solid rgb(151, 140, 93);
     font-weight: 600;
     align-items: center;
     
