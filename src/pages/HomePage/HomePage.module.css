@@ -1,0 +1,22 @@
+.container {
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  min-height: calc(100vh - 300px);
+  align-items: center;
+  justify-content: center;
+  gap: 35px;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 48;
+  text-align: center;
+  color: cornflowerblue;
+}
+
+.icon {
+  color:rgb(155, 141, 48);
+  padding: 0;
+}
